@@ -8,7 +8,7 @@ To develop an image classification model using transfer learning with VGG19 arch
 
 # THEORY
 
-# Neural Network Model
+**Neural Network Model**
 
 <img width="919" height="321" alt="Screenshot 2025-10-26 202912" src="https://github.com/user-attachments/assets/fc056459-3bb9-436c-81ba-b3306c485684" />
 
